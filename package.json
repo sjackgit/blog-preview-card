@@ -1,6 +1,6 @@
 {
   "name": "blog-preview-card-main",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://sjackgit.github.io/blog-preview-card/",
   "type": "module",
