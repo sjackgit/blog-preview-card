@@ -2,6 +2,7 @@
   "name": "blog-preview-card-main",
   "private": false,
   "version": "0.0.0",
+  "homepage": "https://sjackgit.github.io/blog-preview-card/",
   "type": "module",
   "scripts": {
     "dev": "vite",
